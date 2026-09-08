@@ -34,9 +34,10 @@ Compile and run the `loveyou.Loveyou` main class:
 
 ## Example output
 Input:  1,3,6,7,8,12,13,14,15,21,22,23,24,31
+
 Output: 1, 3, 6-8, 12-15, 21-24, 31
 
 ## Build with 
 
-Java(NetBeans 8.2 IDE)
-JUnit 5 for testing
+-Java(NetBeans 8.2 IDE)
+-JUnit 5 for testing
